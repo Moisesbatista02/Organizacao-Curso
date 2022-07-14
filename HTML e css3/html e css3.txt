@@ -1,0 +1,2 @@
+HTML foi inventado em 1991 que serve para criação de paginas na Web. Utiliza tags para adicionar atributos, valores entre outros. Devido a ele podemos fazer mudança de paginas, configurar e adicionar imagens a sites.
+CSS3 criado em 1996 para melhorar a visualização de padroes html, seu uso é para melhorar as fontes, definir cor, o que são titulos entre outros.

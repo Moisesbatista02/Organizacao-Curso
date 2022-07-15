@@ -1,0 +1,29 @@
+historia do JS:
+é uma linguagem interpretada, ou seja acontece em tempo real
+baseada em prototipos, base para todas as extruturas de dados.
+multiparadigma.
+web client-side, interação com o cliente da net
+ecmascript meio que um padrão para algumas linguagens.
+
+evolução do JS:
+criado em 95, em 97 veio o ecmascript1, em 2015 veio ecmascript6 com ele varias atualizaçoes.
+
+aplicações JS:
+web
+mobile
+smartwatches
+games
+internet of things
+APIs
+
+JavaScript na web:
+
+DOM:
+Document Object Model estrutura dos elementos dentro da janela.
+
+MDN web Docs
+W3C
+GitHub
+Linkedin
+stackoverflow
+youtube
